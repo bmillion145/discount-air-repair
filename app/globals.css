@@ -1,0 +1,48 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background-color: #f8f7f4;
+  color: #111111;
+  font-family: Georgia, serif;
+  line-height: 1.7;
+}
+
+.header-bar {
+  background-color: #1e5fa8;
+  color: white;
+  padding: 28px 40px;
+  font-size: 2rem;
+  font-weight: bold;
+  letter-spacing: 0.03em;
+}
+
+.main-content {
+  max-width: 860px;
+  margin: 60px auto;
+  padding: 0 24px;
+}
+
+.main-content p {
+  margin-bottom: 32px;
+  font-size: 1.1rem;
+}
+
+.contact-section {
+  border-top: 1px solid #ccc;
+  margin-top: 60px;
+  padding-top: 40px;
+  padding-bottom: 60px;
+}
+
+.contact-section h2 {
+  margin-bottom: 16px;
+  font-size: 1.4rem;
+}
+
+.contact-section p {
+  margin-bottom: 8px;
+}

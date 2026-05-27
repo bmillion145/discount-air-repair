@@ -7,28 +7,30 @@ export default function Home() {
 
       <main className="main-content">
         <p>
-          Discount Air Repair has been serving homeowners and businesses across
-          the Dallas–Fort Worth metroplex for years. Our certified technicians
-          are trained to diagnose and fix all makes and models of central air
-          systems, ductless mini-splits, and heat pumps — getting your home
-          comfortable again as quickly as possible, no matter the season.
+          Discount Air Repair specializes in residential air conditioning repair
+          across the Dallas–Fort Worth metroplex. We know how much your family
+          depends on a reliable home cooling system, especially through the long
+          Texas summer. Our certified technicians are trained to diagnose and fix
+          all makes and models of residential central air systems, ductless
+          mini-splits, and heat pumps — getting your home comfortable again as
+          quickly as possible.
         </p>
 
         <p>
-          We understand that a broken air conditioner in a Texas summer is an
-          emergency, not an inconvenience. That is why we offer same-day service
-          appointments across Dallas, Plano, Frisco, Garland, and surrounding
-          communities. No job is too big or too small — from a refrigerant
-          recharge to a full system replacement, our team handles it all with
-          speed and professionalism.
+          When your home's AC goes down in the middle of a Texas heat wave, every
+          hour counts. That is why we prioritize residential calls and offer
+          same-day service appointments across Dallas, Grapevine, Frisco, Garland,
+          and surrounding communities. No job is too big or too small — from a
+          refrigerant recharge to a full system replacement, our team handles it
+          all with speed and professionalism.
         </p>
 
         <p>
-          At Discount Air Repair, we believe quality service should not come
-          with an inflated price tag. We provide honest, upfront quotes before
-          any work begins, with no hidden fees or surprise charges. Our goal is
-          to earn your trust on the first visit so that you call us first every
-          time your AC needs attention.
+          At Discount Air Repair, we believe every homeowner deserves quality
+          service at a fair price. We provide honest, upfront quotes before any
+          work begins, with no hidden fees or surprise charges. Our goal is to
+          earn your family's trust on the first visit so that you call us first
+          every time your home's AC needs attention.
         </p>
 
         <section className="contact-section">

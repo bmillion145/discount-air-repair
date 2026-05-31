@@ -1,5 +1,3 @@
-import Link from 'next/link';
-
 export const metadata = {
   title: 'Contact Us | Discount Air Repair',
 };
@@ -7,30 +5,28 @@ export const metadata = {
 export default function ContactPage() {
   return (
     <>
-      <header className="header-bar">
-        <Link href="/" style={{ color: 'white', textDecoration: 'none' }}>
-          Discount Air Repair
-        </Link>
-        <Link href="/contact" className="contact-btn">Contact Us</Link>
-      </header>
+      {/* Page Title Strip */}
+      <div className="page-title-strip">
+        <h1>Contact Us</h1>
+      </div>
 
-      <main className="main-content">
+      <div className="contact-page-wrap">
 
         {/* Phone & Email */}
-        <section className="contact-section">
-          <h2>Contact Us</h2>
+        <section className="contact-info-block">
+          <h2>Get In Touch</h2>
           <p>Phone: (XXX) XXX-XXXX</p>
           <p>Email: info@discountairrepair.com</p>
         </section>
 
-        {/* Submission form */}
+        {/* Submission Form */}
         {/*
           TO WIRE UP SUBMISSIONS:
           Replace action="#" below with your Formspree endpoint, e.g.:
             action="https://formspree.io/f/YOUR_FORM_ID"
           Or swap in any other backend/API route here.
         */}
-        <section className="contact-form">
+        <section className="contact-form-block">
           <h2>Send Us a Message</h2>
           <form action="#" method="POST">
 
@@ -58,7 +54,7 @@ export default function ContactPage() {
           </form>
         </section>
 
-      </main>
+      </div>
     </>
   );
 }

@@ -7,30 +7,24 @@ export default function Home() {
 
       <main className="main-content">
         <p>
-          Discount Air Repair specializes in residential air conditioning repair
-          across the Dallas–Fort Worth metroplex. We know how much your family
-          depends on a reliable home cooling system, especially through the long
-          Texas summer. Our certified technicians are trained to diagnose and fix
-          all makes and models of residential central air systems, ductless
-          mini-splits, and heat pumps — getting your home comfortable again as
-          quickly as possible.
+          We're not one of those big corporate AC companies that charge crazy
+          prices. We know times are tough, and we charge what is fair for the
+          work that we do. We buy the same parts, do the same repairs,
+          maintenance, and installations — but for a lot less. If we can fix it,
+          we do, so you don't have to buy an expensive new unit. If you do need
+          a new unit we will discuss the options with you. No pressure.
         </p>
 
         <p>
-          When your home's AC goes down in the middle of a Texas heat wave, every
-          hour counts. That is why we prioritize residential calls and offer
-          same-day service appointments across Dallas, Grapevine, Frisco, Garland,
-          and surrounding communities. No job is too big or too small — from a
-          refrigerant recharge to a full system replacement, our team handles it
-          all with speed and professionalism.
+          We don't have a ridiculous advertising budget and corporate overhead to
+          cover, so our prices are surprisingly great. If you want low cost, no
+          gimmick service on your AC/Heating system and want to save money, then
+          give us a call.
         </p>
 
         <p>
-          At Discount Air Repair, we believe every homeowner deserves quality
-          service at a fair price. We provide honest, upfront quotes before any
-          work begins, with no hidden fees or surprise charges. Our goal is to
-          earn your family's trust on the first visit so that you call us first
-          every time your home's AC needs attention.
+          If you want to pay hundreds to thousands more for the same service and
+          equipment — then call them.
         </p>
 
         <section className="contact-section">

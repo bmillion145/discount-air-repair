@@ -1,8 +1,11 @@
+import Link from 'next/link';
+
 export default function Home() {
   return (
     <>
       <header className="header-bar">
-        Discount Air Repair
+        <span>Discount Air Repair</span>
+        <Link href="/contact" className="contact-btn">Contact Us</Link>
       </header>
 
       <main className="main-content">
@@ -26,12 +29,6 @@ export default function Home() {
           If you want to pay hundreds to thousands more for the same service and
           equipment — then call them.
         </p>
-
-        <section className="contact-section">
-          <h2>Contact Us</h2>
-          <p>Phone: (XXX) XXX-XXXX</p>
-          <p>Email: info@discountairrepair.com</p>
-        </section>
       </main>
     </>
   );

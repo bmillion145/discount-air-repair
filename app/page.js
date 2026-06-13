@@ -39,7 +39,7 @@ export default function Home() {
         <aside className="sidebar">
           <div className="sidebar-box">
             <h3>Contact Us</h3>
-            <p>☎ (XXX) XXX-XXXX</p>
+            <p>☎ (214) 233-5259</p>
             <p>✉ info@discountairrepair.com</p>
             <Link href="/contact" className="sidebar-btn">Send Us a Message</Link>
           </div>

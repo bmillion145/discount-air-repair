@@ -15,7 +15,7 @@ export default function ContactPage() {
         {/* Phone & Email */}
         <section className="contact-info-block">
           <h2>Get In Touch</h2>
-          <p>Phone: (XXX) XXX-XXXX</p>
+          <p>Phone: (214) 233-5259</p>
           <p>Email: info@discountairrepair.com</p>
         </section>
 

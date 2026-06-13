@@ -15,7 +15,7 @@ export default function RootLayout({ children }) {
         <div className="utility-bar">
           <div className="utility-bar-inner">
             <span>
-              ☎ (XXX) XXX-XXXX
+              ☎ (214) 233-5259
               <span className="utility-sep">|</span>
               ✉ info@discountairrepair.com
             </span>
@@ -31,7 +31,7 @@ export default function RootLayout({ children }) {
               <div className="site-logo-name">Discount Air Repair</div>
               <div className="site-logo-sub">Heating &amp; Air Conditioning</div>
             </Link>
-            <a href="tel:XXXXXXXXXX" className="call-btn">Call (XXX) XXX-XXXX</a>
+            <a href="tel:2142335259" className="call-btn">Call (214) 233-5259</a>
           </div>
         </header>
 
